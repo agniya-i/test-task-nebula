@@ -6,11 +6,12 @@ import { User } from '@/src/types/User'
 import Button from '../UI/Button'
 import styles from './ExpertCard.module.scss'
 
-interface Props {
+type Props = {
   expert: User
+  pageType?: 'default' | 'user'
 }
 
-const ExpertCard: FC<Props> = ({ expert }) => {
+const ExpertCard: FC<Props> = ({ expert, pageType = 'default' }) => {
   const { push } = useRouter()
 
   return (
@@ -19,7 +20,12 @@ const ExpertCard: FC<Props> = ({ expert }) => {
         <div className={styles.header}>
           <div className={styles.image}>
             <div className={styles.imageWrapper}>
-              <Image alt="user image" src={expert.image} width={100} height={100}/>
+              <Image
+                alt="user image"
+                src={expert.image}
+                width={100}
+                height={100}
+              />
               <div className={styles.status}>{expert.status}</div>
             </div>
           </div>
@@ -55,12 +61,14 @@ const ExpertCard: FC<Props> = ({ expert }) => {
             <span>{expert.total_orders} </span>consultations done
           </div>
         </div>
-        <Button
-          label="View full profile"
-          style="link"
-          // eslint-disable-next-line @typescript-eslint/no-misused-promises, @typescript-eslint/promise-function-async
-          onClick={() => push(`expert/${expert.id}`)}
-        />
+        {pageType !== 'user' && (
+          <Button
+            label="View full profile"
+            style="link"
+            // eslint-disable-next-line @typescript-eslint/no-misused-promises, @typescript-eslint/promise-function-async
+            onClick={() => push(`expert/${expert.id}`)}
+          />
+        )}
       </div>
     </div>
   )
