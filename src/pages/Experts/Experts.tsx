@@ -1,7 +1,7 @@
 import { FC } from 'react'
 import { GetServerSideProps } from 'next'
 import classNames from 'classnames'
-import { User } from '@/src/types/types'
+import { User } from '@/src/types/User'
 import ExpertCard from '@/src/components/ExpertCard'
 import styles from './Experts.module.scss'
 

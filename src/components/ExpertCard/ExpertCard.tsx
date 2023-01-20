@@ -2,7 +2,7 @@ import { FC } from 'react'
 import { useRouter } from 'next/router'
 import Image from 'next/image'
 import classNames from 'classnames'
-import { User } from '@/src/types/types'
+import { User } from '@/src/types/User'
 import Button from '../UI/Button'
 import styles from './ExpertCard.module.scss'
 

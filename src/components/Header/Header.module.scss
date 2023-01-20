@@ -1,0 +1,16 @@
+.header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 30px;
+
+    .logoWrapper {
+      display: inline-block;
+      width: 140px;
+    
+      .logo {
+        width: 100%;
+        height: auto;
+      }
+    }
+}
