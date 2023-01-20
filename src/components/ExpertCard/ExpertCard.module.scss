@@ -1,0 +1,102 @@
+@import '@/styles/variables.scss';
+
+.wrapper {
+    background-color: $cardLight;
+    color: $textPrimary;
+    margin: auto;
+    margin-bottom: 20px;
+    border-radius: 16px;
+    display: flex;
+    justify-content: space-between;  
+
+    .userMainInfo{
+      flex-basis: 70%;
+      padding: 24px;
+
+      .header{
+        display: flex;
+
+        .image {
+          flex-basis: 20%;
+
+          .imageWrapper {
+            max-width: 100px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            position: relative;
+          }
+
+          .status {
+            position: absolute;
+            bottom: -10px;
+            background-color: #4DAB75;
+            border-radius: 22px;
+            padding: 2px 18px;
+          }
+        }
+
+        .data{
+          flex-basis: 80%;
+
+          .specializationsList {
+            display: flex;
+
+            .specializationsItem {
+                width: fit-content;
+                margin-right: 6px;
+                padding: 4px 10px;
+                background-color: $tagLight;
+                border-radius: 20px;
+                font-size: 14px;
+            }
+
+          }
+          .title {
+            font-family: 'Montserrat', sans-serif;
+            font-size: 28px;
+            margin-bottom: 24px;
+          }
+        }
+      }
+
+      .about{
+        margin-top: 24px;
+        display: flex;
+
+        .aboutTitle{
+          flex-basis: 20%;
+          font-size: 16px;
+          font-weight: 600;
+        }
+
+        .aboutDescription { 
+          flex-basis: 80%;
+          font-size: 14px;
+        }
+      }
+    }
+
+    .userAdditionalInfo{
+      flex-basis: 25%;
+      background-color: $primaryDark;
+      padding: 42px 0 26px 24px;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+
+      .years {
+        margin-bottom: 24px;
+
+        & > span {
+            font-weight: 600;
+        }
+      }
+
+      .consultation {
+        & > span {
+            font-weight: 600;
+        }
+      }
+    }
+}

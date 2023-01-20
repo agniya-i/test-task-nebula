@@ -9,7 +9,7 @@ export default function Home(){
         <meta name="description" content="Test Task" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
       </Head>
-      <main className={styles.main}></main>
+      <main className={styles.main}>Hello</main>
     </>
   )
 }

@@ -1,0 +1,2102 @@
+{
+  "data": [
+    {
+      "id": "1458be02-585f-4c81-af6f-52d059e865dc",
+      "name": "Samael",
+      "astrology_type": "western",
+      "image": "https://astrocrmmedia.obrio.net/photos/production/image_1458be02-585f-4c81-af6f-52d059e865dc.png",
+      "image_mini": "https://astrocrmmedia.obrio.net/photos/production/image_1458be02-585f-4c81-af6f-52d059e865dc.png",
+      "slogan": "I will help you discover the choices the Universe is giving you.",
+      "description": "My astrology readings offer a new perspective on your personality traits and life experiences. Whether you have questions concerning your relationships, career choices, life path, or even if you’re simply curious, my forecast will provide you with fresh insight into your life, allowing you to see more clearly.   If you’re experiencing problems, I will see them as areas of stress in your birth chart that are being activated by planetary alignments. Then, I will show you the best solutions to those problems. Understand that the Universe always gives you a choice!",
+      "description_experience": "",
+      "rating": 4.9,
+      "experience": 8,
+      "feedback_count": 1200,
+      "total_orders": 11391,
+      "sort_order": 2,
+      "joined_time": 1624612993,
+      "languages": [
+        {
+          "code": "en",
+          "name": "English",
+          "native_name": "English"
+        }
+      ],
+      "specializations": [
+        {
+          "id": 33,
+          "name": "Love back rituals"
+        },
+        {
+          "id": 34,
+          "name": "Spellcasting"
+        },
+        {
+          "id": 38,
+          "name": "Remedies"
+        },
+        {
+          "id": 44,
+          "name": "Relationship expert"
+        }
+      ],
+      "certificates": [],
+      "offers": [],
+      "video": {
+        "src": null
+      },
+      "chat_offers": [
+        {
+          "type": "online",
+          "price": 3,
+          "limit": 2,
+          "limit_is_exhausted": false,
+          "offer": null
+        },
+        {
+          "type": "offline",
+          "price": 3,
+          "limit": 100,
+          "limit_is_exhausted": false,
+          "offer": null
+        }
+      ],
+      "subscription": {
+        "type": "never"
+      },
+      "is_personal": false,
+      "is_followed": false,
+      "status": "online"
+    },
+    {
+      "id": "e41a5f48-9a11-480a-830e-926719f52e32",
+      "name": "Truth by Nancy",
+      "astrology_type": "vedic",
+      "image": "https://astrocrmmedia.obrio.net/photos/production/image_e41a5f48-9a11-480a-830e-926719f52e32.png",
+      "image_mini": "https://astrocrmmedia.obrio.net/photos/production/image_e41a5f48-9a11-480a-830e-926719f52e32.png",
+      "slogan": "I have dedicated my whole life to cultivating in the spirit world to help people! Write to me, and you will see everything with your own eyes!",
+      "description": "My goal in life is to help people who are confused and have lost faith in themselves. I have a gift - I have exceptional mental strength. Since childhood, I felt that I was noticeably different from my surroundings. I could predict in advance to my close people what would happen to them in the near future, but only years later I learned to control this rebellious force and use it for the benefit of people, helping them cope with troubles and sorrows. Without exaggeration, I can say that I know everything about people, I can help you improve your life, despite the distance. That is why it is in my power to help you find a way out, even from seemingly hopeless situations. My gift helps to return the departed love to families, connect destinies, reconcile loving people, and predict the future. With the help of fortune-telling and magical rituals passed down for centuries in my family, you can find out the answers to questions that have been worrying you for a long time and find a way out of even the most difficult life situation. Tell me about your life situation to get results today!",
+      "description_experience": "",
+      "rating": 4.7,
+      "experience": 19,
+      "feedback_count": 3,
+      "total_orders": 53,
+      "sort_order": 3467,
+      "joined_time": 1669117827,
+      "languages": [
+        {
+          "code": "en",
+          "name": "English",
+          "native_name": "English"
+        }
+      ],
+      "specializations": [
+        {
+          "id": 3,
+          "name": "Tarot reading"
+        },
+        {
+          "id": 4,
+          "name": "Psychic"
+        },
+        {
+          "id": 7,
+          "name": "Angel readings"
+        },
+        {
+          "id": 36,
+          "name": "Spiritual healing"
+        },
+        {
+          "id": 37,
+          "name": "Rituals"
+        }
+      ],
+      "certificates": [],
+      "offers": [],
+      "video": {
+        "src": null
+      },
+      "chat_offers": [
+        {
+          "type": "offline",
+          "price": 6.5,
+          "limit": 25,
+          "limit_is_exhausted": false,
+          "offer": null
+        },
+        {
+          "type": "online",
+          "price": 6.5,
+          "limit": 2,
+          "limit_is_exhausted": false,
+          "offer": null
+        }
+      ],
+      "subscription": {
+        "type": "never"
+      },
+      "is_personal": false,
+      "is_followed": false,
+      "status": "online"
+    },
+    {
+      "id": "e2410847-9824-4fd8-91e6-8ebe87e7714b",
+      "name": "AstroSlava",
+      "astrology_type": "western",
+      "image": "https://astrocrmmedia.obrio.net/photos/production/image_e2410847-9824-4fd8-91e6-8ebe87e7714b.png",
+      "image_mini": "https://astrocrmmedia.obrio.net/photos/production/image_e2410847-9824-4fd8-91e6-8ebe87e7714b.png",
+      "slogan": "There is no better boat than a horoscope to help a man cross over the sea of life. Feel free to swim in it and I am here to guide you!",
+      "description": "Hello! I am a born astrologer and it's my way of life to help you overcome obstacles by encouraging and guiding them on the right path in life. I can provide accurate readings and guidance with my expert knowledge about career, love, marriage, relationships, education, business, and other issues. People come from diverse backgrounds, and their positive and valuable feedback inspires me to continue providing the best of my knowledge to everyone. Feel free to share with me what is bothering you, I really appreciate your trust.",
+      "description_experience": "",
+      "rating": 4.9,
+      "experience": 10,
+      "feedback_count": 1167,
+      "total_orders": 6867,
+      "sort_order": 2447,
+      "joined_time": 1653316573,
+      "languages": [
+        {
+          "code": "en",
+          "name": "English",
+          "native_name": "English"
+        }
+      ],
+      "specializations": [
+        {
+          "id": 2,
+          "name": "Numerology"
+        },
+        {
+          "id": 3,
+          "name": "Tarot reading"
+        },
+        {
+          "id": 32,
+          "name": "Feminine power activation"
+        },
+        {
+          "id": 43,
+          "name": "Love spell"
+        }
+      ],
+      "certificates": [],
+      "offers": [],
+      "video": {
+        "src": null
+      },
+      "chat_offers": [
+        {
+          "type": "offline",
+          "price": 3,
+          "limit": 25,
+          "limit_is_exhausted": false,
+          "offer": null
+        },
+        {
+          "type": "online",
+          "price": 3,
+          "limit": 2,
+          "limit_is_exhausted": false,
+          "offer": null
+        }
+      ],
+      "subscription": {
+        "type": "never"
+      },
+      "is_personal": false,
+      "is_followed": false,
+      "status": "online"
+    },
+    {
+      "id": "f7a482e4-3f4c-4ca8-90f8-2ab4221f18e9",
+      "name": "Camelia",
+      "astrology_type": "western",
+      "image": "https://astrocrmmedia.obrio.net/photos/production/image_f7a482e4-3f4c-4ca8-90f8-2ab4221f18e9.png",
+      "image_mini": "https://astrocrmmedia.obrio.net/photos/production/image_f7a482e4-3f4c-4ca8-90f8-2ab4221f18e9.png",
+      "slogan": "Are you feeling lost or overwhelmed? Let me guide you to discover your true worth.",
+      "description": "Since I was a little girl, I always knew it in my heart that I wanted to help people. So I made it my life purpose. For the last 10 years, I've been using my psychic powers to help people heal their broken hearts, their families and meet their soulmates. Nothing makes me more fulfilled than seeing people happy and in love. And I know that fear that I'm not good enough is what stops so many of us from being truly happy. I've come a long way in facing this fear myself, overcoming it, and discovering my true worth. And I am here to help you too.",
+      "description_experience": "",
+      "rating": 5,
+      "experience": 10,
+      "feedback_count": 5,
+      "total_orders": 287,
+      "sort_order": 3327,
+      "joined_time": 1668684726,
+      "languages": [
+        {
+          "code": "en",
+          "name": "English",
+          "native_name": "English"
+        }
+      ],
+      "specializations": [
+        {
+          "id": 2,
+          "name": "Numerology"
+        },
+        {
+          "id": 4,
+          "name": "Psychic"
+        },
+        {
+          "id": 32,
+          "name": "Feminine power activation"
+        },
+        {
+          "id": 44,
+          "name": "Relationship expert"
+        }
+      ],
+      "certificates": [],
+      "offers": [],
+      "video": {
+        "src": null
+      },
+      "chat_offers": [
+        {
+          "type": "offline",
+          "price": 3,
+          "limit": 25,
+          "limit_is_exhausted": false,
+          "offer": null
+        },
+        {
+          "type": "online",
+          "price": 3,
+          "limit": 1,
+          "limit_is_exhausted": false,
+          "offer": null
+        }
+      ],
+      "subscription": {
+        "type": "never"
+      },
+      "is_personal": false,
+      "is_followed": false,
+      "status": "online"
+    },
+    {
+      "id": "f8b31ab9-42c1-477f-8533-e5b1371d7b94",
+      "name": "Love insights by Matilda",
+      "astrology_type": "vedic",
+      "image": "https://astrocrmmedia.obrio.net/photos/production/image_f8b31ab9-42c1-477f-8533-e5b1371d7b94.png",
+      "image_mini": "https://astrocrmmedia.obrio.net/photos/production/image_f8b31ab9-42c1-477f-8533-e5b1371d7b94.png",
+      "slogan": "I'll help you stop thinking that love is hard. I can see how your partner feels, if they love you, what their intentions are and what the future holds for you.",
+      "description": "You did not stumble upon me by accident, the universe brought you to me so that I could help you find answers to the questions that bother you.\r\nI can help you sort out your love life, see how your partner feels about you, or see if your ex gets back to you. I know how to return a faded love or how to make someone like you. I also specialize in viewing the future, past and present.\r\nSometimes we feel lost in this life, and we need someone to push us in the right direction. You can tell me everything that bothers you, I was sent to this earth to help and heal. Together with you, we are strong, so write your questions now!",
+      "description_experience": "",
+      "rating": 5,
+      "experience": 19,
+      "feedback_count": 1,
+      "total_orders": 53,
+      "sort_order": 3637,
+      "joined_time": 1669121508,
+      "languages": [
+        {
+          "code": "en",
+          "name": "English",
+          "native_name": "English"
+        }
+      ],
+      "specializations": [
+        {
+          "id": 33,
+          "name": "Love back rituals"
+        },
+        {
+          "id": 42,
+          "name": "Chakras healing"
+        },
+        {
+          "id": 43,
+          "name": "Love spell"
+        },
+        {
+          "id": 44,
+          "name": "Relationship expert"
+        }
+      ],
+      "certificates": [],
+      "offers": [],
+      "video": {
+        "src": null
+      },
+      "chat_offers": [
+        {
+          "type": "offline",
+          "price": 6.5,
+          "limit": 25,
+          "limit_is_exhausted": false,
+          "offer": null
+        },
+        {
+          "type": "online",
+          "price": 6.5,
+          "limit": 2,
+          "limit_is_exhausted": false,
+          "offer": null
+        }
+      ],
+      "subscription": {
+        "type": "never"
+      },
+      "is_personal": false,
+      "is_followed": false,
+      "status": "online"
+    },
+    {
+      "id": "50a99a23-6f01-4651-af94-5094cee4d344",
+      "name": "Arturo",
+      "astrology_type": "western",
+      "image": "https://astrocrmmedia.obrio.net/photos/production/image_50a99a23-6f01-4651-af94-5094cee4d344.jpg",
+      "image_mini": "https://astrocrmmedia.obrio.net/photos/production/image_50a99a23-6f01-4651-af94-5094cee4d344.jpg",
+      "slogan": "Use and direct your destiny to be able to trust it.",
+      "description": "Hello, my friend! Let’s look into the Universe to find all of the answers together! Love/career/health/etc. The space and cards can help us to figure out everything! Just let me know what is bothering you and I will get ducks in a row for your understanding. So see you in a chat!",
+      "description_experience": "",
+      "rating": 4.9,
+      "experience": 22,
+      "feedback_count": 1000,
+      "total_orders": 7366,
+      "sort_order": 2197,
+      "joined_time": 1652781304,
+      "languages": [
+        {
+          "code": "en",
+          "name": "English",
+          "native_name": "English"
+        }
+      ],
+      "specializations": [
+        {
+          "id": 4,
+          "name": "Psychic"
+        },
+        {
+          "id": 19,
+          "name": "Past life reading"
+        },
+        {
+          "id": 34,
+          "name": "Spellcasting"
+        },
+        {
+          "id": 35,
+          "name": "Twine flame healer"
+        },
+        {
+          "id": 38,
+          "name": "Remedies"
+        }
+      ],
+      "certificates": [],
+      "offers": [],
+      "video": {
+        "src": null
+      },
+      "chat_offers": [
+        {
+          "type": "offline",
+          "price": 3,
+          "limit": 25,
+          "limit_is_exhausted": false,
+          "offer": null
+        },
+        {
+          "type": "online",
+          "price": 3,
+          "limit": 2,
+          "limit_is_exhausted": false,
+          "offer": null
+        }
+      ],
+      "subscription": {
+        "type": "never"
+      },
+      "is_personal": false,
+      "is_followed": false,
+      "status": "online"
+    },
+    {
+      "id": "d0d2a07d-96ef-4ff2-b41b-19296313e72e",
+      "name": "Sybil",
+      "astrology_type": "western",
+      "image": "https://astrocrmmedia.obrio.net/photos/production/image_d0d2a07d-96ef-4ff2-b41b-19296313e72e.png",
+      "image_mini": "https://astrocrmmedia.obrio.net/photos/production/image_d0d2a07d-96ef-4ff2-b41b-19296313e72e.png",
+      "slogan": "I am a God-gifted Psychic, Author, Life Coach, and Tarot Reader.\r\nLove, Family, Career, and Healing spiritual insights.",
+      "description": "Change begins with you, and the potential for transforming your life has no limits. My readings are direct. My aim is to set you free. I will guide you in what you need to know.",
+      "description_experience": "",
+      "rating": 4.9,
+      "experience": 6,
+      "feedback_count": 46,
+      "total_orders": 53,
+      "sort_order": 3807,
+      "joined_time": 1669194961,
+      "languages": [
+        {
+          "code": "en",
+          "name": "English",
+          "native_name": "English"
+        }
+      ],
+      "specializations": [
+        {
+          "id": 3,
+          "name": "Tarot reading"
+        },
+        {
+          "id": 4,
+          "name": "Psychic"
+        },
+        {
+          "id": 8,
+          "name": "Spirituality"
+        },
+        {
+          "id": 22,
+          "name": "Shamanic healing"
+        },
+        {
+          "id": 31,
+          "name": "Therapy"
+        },
+        {
+          "id": 32,
+          "name": "Feminine power activation"
+        }
+      ],
+      "certificates": [],
+      "offers": [],
+      "video": {
+        "src": null
+      },
+      "chat_offers": [
+        {
+          "type": "offline",
+          "price": 6.5,
+          "limit": 25,
+          "limit_is_exhausted": false,
+          "offer": null
+        },
+        {
+          "type": "online",
+          "price": 6.5,
+          "limit": 2,
+          "limit_is_exhausted": false,
+          "offer": null
+        }
+      ],
+      "subscription": {
+        "type": "never"
+      },
+      "is_personal": false,
+      "is_followed": false,
+      "status": "online"
+    },
+    {
+      "id": "38daad04-1e91-4e80-af11-9dccec481a5a",
+      "name": "Alzumir The Seer",
+      "astrology_type": "western",
+      "image": "https://astrocrmmedia.obrio.net/photos/production/image_38daad04-1e91-4e80-af11-9dccec481a5a.png",
+      "image_mini": "https://astrocrmmedia.obrio.net/photos/production/image_38daad04-1e91-4e80-af11-9dccec481a5a.png",
+      "slogan": "Do not try to get into the shoes of someone who wants to take over you. Your personality is your best jewelry",
+      "description": "Alzumir is a great seer who can sense your aura across kilometers of distance. Any of your emotional shift will let him understand the problem that worries you, he will guide and help you find a way out of the most difficult situations. With the help of tarot cards, as well as sensory ability, he will get into the depths of your soul to take away your worries and fill your life with confidence in the future.",
+      "description_experience": "",
+      "rating": 5,
+      "experience": 12,
+      "feedback_count": 44,
+      "total_orders": 53,
+      "sort_order": 4007,
+      "joined_time": 1669201308,
+      "languages": [
+        {
+          "code": "en",
+          "name": "English",
+          "native_name": "English"
+        }
+      ],
+      "specializations": [
+        {
+          "id": 3,
+          "name": "Tarot reading"
+        },
+        {
+          "id": 4,
+          "name": "Psychic"
+        },
+        {
+          "id": 8,
+          "name": "Spirituality"
+        }
+      ],
+      "certificates": [],
+      "offers": [],
+      "video": {
+        "src": null
+      },
+      "chat_offers": [
+        {
+          "type": "offline",
+          "price": 10,
+          "limit": 25,
+          "limit_is_exhausted": false,
+          "offer": null
+        },
+        {
+          "type": "online",
+          "price": 10,
+          "limit": 2,
+          "limit_is_exhausted": false,
+          "offer": null
+        }
+      ],
+      "subscription": {
+        "type": "never"
+      },
+      "is_personal": false,
+      "is_followed": false,
+      "status": "online"
+    },
+    {
+      "id": "072de47d-b936-4137-823a-5bb5cd9b7092",
+      "name": "Esmond",
+      "astrology_type": "western",
+      "image": "https://astrocrmmedia.obrio.net/photos/production/image_072de47d-b936-4137-823a-5bb5cd9b7092.jpg",
+      "image_mini": "https://astrocrmmedia.obrio.net/photos/production/image_072de47d-b936-4137-823a-5bb5cd9b7092.jpg",
+      "slogan": "Astrology is just a finger pointing at reality",
+      "description": "I will guide, inspire, heal and remove restrictions to finding perfect Love. We'll work together to dissolve any blocks to creating a more fulfilling Love life and happiness with all aspects of your being.",
+      "description_experience": "",
+      "rating": 4.9,
+      "experience": 7,
+      "feedback_count": 91,
+      "total_orders": 427,
+      "sort_order": 2957,
+      "joined_time": 1663934035,
+      "languages": [
+        {
+          "code": "en",
+          "name": "English",
+          "native_name": "English"
+        }
+      ],
+      "specializations": [
+        {
+          "id": 3,
+          "name": "Tarot reading"
+        },
+        {
+          "id": 8,
+          "name": "Spirituality"
+        },
+        {
+          "id": 38,
+          "name": "Remedies"
+        },
+        {
+          "id": 41,
+          "name": "Affirmations"
+        },
+        {
+          "id": 43,
+          "name": "Love spell"
+        },
+        {
+          "id": 45,
+          "name": "Divine power activation"
+        }
+      ],
+      "certificates": [],
+      "offers": [],
+      "video": {
+        "src": null
+      },
+      "chat_offers": [
+        {
+          "type": "offline",
+          "price": 3.5,
+          "limit": 25,
+          "limit_is_exhausted": false,
+          "offer": null
+        },
+        {
+          "type": "online",
+          "price": 3.5,
+          "limit": 2,
+          "limit_is_exhausted": false,
+          "offer": null
+        }
+      ],
+      "subscription": {
+        "type": "never"
+      },
+      "is_personal": false,
+      "is_followed": false,
+      "status": "online"
+    },
+    {
+      "id": "de831264-79d9-4653-91f9-026e1ea2b43b",
+      "name": "Lois Solomon",
+      "astrology_type": "western",
+      "image": "https://astrocrmmedia.obrio.net/photos/production/image_de831264-79d9-4653-91f9-026e1ea2b43b.jpg",
+      "image_mini": "https://astrocrmmedia.obrio.net/photos/production/image_de831264-79d9-4653-91f9-026e1ea2b43b.jpg",
+      "slogan": "One of the most important things is to start competing against an earlier version of yourself with the stars' advice.",
+      "description": "Dear, welcome to my profile! I'm helping people over the years. I can help you know what's stored ahead for you in destiny. I can tell you if there is a future with your loved one together and assist you with clarity of your current situation. Also, I can help you with everyday life issues such as love and relationship, career, failing businesses, soulmate connections, dating issues, marital life problems, cheating and affairs, break-ups, divorce, parenting, and family. I will tell you things that will guide you towards a better place…a place of peace of mind and comfort. I'll show you how to help yourself and the loved ones around you.",
+      "description_experience": "",
+      "rating": 4.9,
+      "experience": 17,
+      "feedback_count": 947,
+      "total_orders": 5555,
+      "sort_order": 1767,
+      "joined_time": 1643969793,
+      "languages": [
+        {
+          "code": "en",
+          "name": "English",
+          "native_name": "English"
+        }
+      ],
+      "specializations": [
+        {
+          "id": 2,
+          "name": "Numerology"
+        },
+        {
+          "id": 3,
+          "name": "Tarot reading"
+        },
+        {
+          "id": 34,
+          "name": "Spellcasting"
+        },
+        {
+          "id": 35,
+          "name": "Twine flame healer"
+        },
+        {
+          "id": 38,
+          "name": "Remedies"
+        }
+      ],
+      "certificates": [],
+      "offers": [],
+      "video": {
+        "src": null
+      },
+      "chat_offers": [
+        {
+          "type": "offline",
+          "price": 3,
+          "limit": 25,
+          "limit_is_exhausted": false,
+          "offer": null
+        },
+        {
+          "type": "online",
+          "price": 3,
+          "limit": 2,
+          "limit_is_exhausted": false,
+          "offer": null
+        }
+      ],
+      "subscription": {
+        "type": "never"
+      },
+      "is_personal": false,
+      "is_followed": false,
+      "status": "online"
+    },
+    {
+      "id": "971a36f4-33a1-422b-a811-06cb1d118512",
+      "name": "Lady Ingrid",
+      "astrology_type": "western",
+      "image": "https://astrocrmmedia.obrio.net/photos/production/image_971a36f4-33a1-422b-a811-06cb1d118512.png",
+      "image_mini": "https://astrocrmmedia.obrio.net/photos/production/image_971a36f4-33a1-422b-a811-06cb1d118512.png",
+      "slogan": "Let me tell you what you cannot see.",
+      "description": "I do several different types of readings. Love and Marriage Readings, Love and Relationship Readings, Psychic, and Compatibility Readings. I will tell you all, I see good and bad. I am non-judgmental. I will immediately forecast in your future and answer all your questions and more.",
+      "description_experience": "",
+      "rating": 5,
+      "experience": 18,
+      "feedback_count": 1,
+      "total_orders": 53,
+      "sort_order": 3817,
+      "joined_time": 1669195098,
+      "languages": [
+        {
+          "code": "en",
+          "name": "English",
+          "native_name": "English"
+        }
+      ],
+      "specializations": [
+        {
+          "id": 1,
+          "name": "Life"
+        },
+        {
+          "id": 3,
+          "name": "Tarot reading"
+        },
+        {
+          "id": 11,
+          "name": "Runes reading"
+        },
+        {
+          "id": 28,
+          "name": "Oracle card readings"
+        },
+        {
+          "id": 33,
+          "name": "Love back rituals"
+        },
+        {
+          "id": 45,
+          "name": "Divine power activation"
+        }
+      ],
+      "certificates": [],
+      "offers": [],
+      "video": {
+        "src": null
+      },
+      "chat_offers": [
+        {
+          "type": "offline",
+          "price": 10,
+          "limit": 25,
+          "limit_is_exhausted": false,
+          "offer": null
+        },
+        {
+          "type": "online",
+          "price": 10,
+          "limit": 2,
+          "limit_is_exhausted": false,
+          "offer": null
+        }
+      ],
+      "subscription": {
+        "type": "never"
+      },
+      "is_personal": false,
+      "is_followed": false,
+      "status": "online"
+    },
+    {
+      "id": "0059a995-b418-4601-afc7-06b39ab83038",
+      "name": "Cassandra",
+      "astrology_type": "western",
+      "image": "https://astrocrmmedia.obrio.net/photos/production/image_0059a995-b418-4601-afc7-06b39ab83038.jpg",
+      "image_mini": "https://astrocrmmedia.obrio.net/photos/production/image_0059a995-b418-4601-afc7-06b39ab83038.jpg",
+      "slogan": "Astrology reveals the will of the gods, but I will help you to discover astrology",
+      "description": "Dear, I can help you resolve your situation with my spiritual guidance. You'll find me a compassionate and empathetic lady with great natural insight and intuition into people's lives and problems. Are you tired of uncertainty, detours and dead ends? Stop feeling yourself lost - ask for directions. I'll create a personal road map for you. The path to your future can be as easy as 1-2-3. Please write to me, and let me be your guide.",
+      "description_experience": "",
+      "rating": 4.9,
+      "experience": 8,
+      "feedback_count": 1234,
+      "total_orders": 8251,
+      "sort_order": 1757,
+      "joined_time": 1643969398,
+      "languages": [
+        {
+          "code": "en",
+          "name": "English",
+          "native_name": "English"
+        }
+      ],
+      "specializations": [
+        {
+          "id": 2,
+          "name": "Numerology"
+        },
+        {
+          "id": 3,
+          "name": "Tarot reading"
+        },
+        {
+          "id": 4,
+          "name": "Psychic"
+        },
+        {
+          "id": 33,
+          "name": "Love back rituals"
+        },
+        {
+          "id": 35,
+          "name": "Twine flame healer"
+        },
+        {
+          "id": 41,
+          "name": "Affirmations"
+        }
+      ],
+      "certificates": [],
+      "offers": [],
+      "video": {
+        "src": null
+      },
+      "chat_offers": [
+        {
+          "type": "offline",
+          "price": 3,
+          "limit": 25,
+          "limit_is_exhausted": false,
+          "offer": null
+        },
+        {
+          "type": "online",
+          "price": 3,
+          "limit": 2,
+          "limit_is_exhausted": false,
+          "offer": null
+        }
+      ],
+      "subscription": {
+        "type": "never"
+      },
+      "is_personal": false,
+      "is_followed": false,
+      "status": "online"
+    },
+    {
+      "id": "db1a6128-59c5-43bc-b531-cd190cd41f9f",
+      "name": "Davina",
+      "astrology_type": "western",
+      "image": "https://astrocrmmedia.obrio.net/photos/production/image_db1a6128-59c5-43bc-b531-cd190cd41f9f.png",
+      "image_mini": "https://astrocrmmedia.obrio.net/photos/production/image_db1a6128-59c5-43bc-b531-cd190cd41f9f.png",
+      "slogan": "Divine power lies within you. And I will guide you to make your dream life happen",
+      "description": "Do you want to gain clarity on your current situation? And do you want to get to know powerful remedies that can help you manifest your desires? Contact me now for your energy reading and manifestation secrets.",
+      "description_experience": "",
+      "rating": 5,
+      "experience": 15,
+      "feedback_count": 10,
+      "total_orders": 343,
+      "sort_order": 3347,
+      "joined_time": 1668686690,
+      "languages": [
+        {
+          "code": "en",
+          "name": "English",
+          "native_name": "English"
+        }
+      ],
+      "specializations": [
+        {
+          "id": 2,
+          "name": "Numerology"
+        },
+        {
+          "id": 5,
+          "name": "Clairvoyance"
+        },
+        {
+          "id": 38,
+          "name": "Remedies"
+        },
+        {
+          "id": 45,
+          "name": "Divine power activation"
+        }
+      ],
+      "certificates": [],
+      "offers": [],
+      "video": {
+        "src": null
+      },
+      "chat_offers": [
+        {
+          "type": "offline",
+          "price": 3,
+          "limit": 25,
+          "limit_is_exhausted": false,
+          "offer": null
+        },
+        {
+          "type": "online",
+          "price": 3,
+          "limit": 1,
+          "limit_is_exhausted": false,
+          "offer": null
+        }
+      ],
+      "subscription": {
+        "type": "never"
+      },
+      "is_personal": false,
+      "is_followed": false,
+      "status": "online"
+    },
+    {
+      "id": "062fb5d5-f6ae-4df9-995b-38b812dd9d11",
+      "name": "TAROT BY OMELIA",
+      "astrology_type": "western",
+      "image": "https://astrocrmmedia.obrio.net/photos/production/image_062fb5d5-f6ae-4df9-995b-38b812dd9d11.png",
+      "image_mini": "https://astrocrmmedia.obrio.net/photos/production/image_062fb5d5-f6ae-4df9-995b-38b812dd9d11.png",
+      "slogan": "Are you looking for help, understanding, and answers to questions that no one else can answer? Let me know your name and date of birth for your energy reading! And you will be surprised that there is a person in the world who knows everything about you!",
+      "description": "From the age of 8, I knew that I was different from others because I felt very strongly about what exactly bothers a person, what kind of energy can threaten him, and how much a person hurts. I was called the successor of my grandmother since I was a baby because she was a psychic-tarologist who was respected by everyone in our town, my gaze from birth was piercing and people felt as if they were looking into their souls. Already at the age of 11, I got acquainted with my first deck of Tarot cards, which my grandmother bought for me because I was always interested in the cards that she laid out. When I tried to work with the deck and do basic readings with the help of my grandmother in the first days, she was surprised at how intuitively I did correct readings without knowing the full meaning of all the cards and gave true readings that were really confirmed by my grandmother's clients. I didn't play with my peers, I wasn't interested in them, the other day I sat in my grandmother's study and spent all my free time there. I did not stop at tarot and intuitive reading, I was interested in new and new instruments, so I learned more about numerology, runes, and astrology, as well as Oracle cards and the Matrix of Fate.\r\n\r\nWhen my grandmother passed away, I felt that I was given the gift of reading people's true desires and essences, she talked about it, but always said that I would understand this gift when she was gone. However, despite such great experiences and baggage of knowledge, I continue to learn new tools, different practices, and even rituals to this day!",
+      "description_experience": "",
+      "rating": 5,
+      "experience": 34,
+      "feedback_count": 51,
+      "total_orders": 53,
+      "sort_order": 3517,
+      "joined_time": 1669119525,
+      "languages": [
+        {
+          "code": "en",
+          "name": "English",
+          "native_name": "English"
+        }
+      ],
+      "specializations": [
+        {
+          "id": 2,
+          "name": "Numerology"
+        },
+        {
+          "id": 3,
+          "name": "Tarot reading"
+        },
+        {
+          "id": 28,
+          "name": "Oracle card readings"
+        },
+        {
+          "id": 37,
+          "name": "Rituals"
+        },
+        {
+          "id": 44,
+          "name": "Relationship expert"
+        }
+      ],
+      "certificates": [],
+      "offers": [],
+      "video": {
+        "src": null
+      },
+      "chat_offers": [
+        {
+          "type": "offline",
+          "price": 9,
+          "limit": 10,
+          "limit_is_exhausted": false,
+          "offer": null
+        },
+        {
+          "type": "online",
+          "price": 9,
+          "limit": 2,
+          "limit_is_exhausted": false,
+          "offer": null
+        }
+      ],
+      "subscription": {
+        "type": "never"
+      },
+      "is_personal": false,
+      "is_followed": false,
+      "status": "online"
+    },
+    {
+      "id": "fe490245-f81c-4afb-bc8e-5a0556094e4e",
+      "name": "Medium Orlando",
+      "astrology_type": "western",
+      "image": "https://astrocrmmedia.obrio.net/photos/production/image_fe490245-f81c-4afb-bc8e-5a0556094e4e.jpg",
+      "image_mini": "https://astrocrmmedia.obrio.net/photos/production/image_fe490245-f81c-4afb-bc8e-5a0556094e4e.jpg",
+      "slogan": "I can do a spiritual reading, heal your heart wounds, find answers to questions that are bothering you and help you get on the path of healing and spirituality.",
+      "description": "Life can be difficult at times, and it seems to us that without someone else's help we can not cope. That is why I am here to help you heal and go through a difficult period of your life with you. I can find answers to your every question regarding every area of life, just trust me. I hear what the universe wants to convey to you through me.\r\nLife will be easier for you if we find answers to the questions that are bothering you. Let me be your guide to the world of spirituality.\r\nI'm waiting for your message!",
+      "description_experience": "",
+      "rating": 5,
+      "experience": 22,
+      "feedback_count": 1,
+      "total_orders": 53,
+      "sort_order": 3657,
+      "joined_time": 1669121707,
+      "languages": [
+        {
+          "code": "en",
+          "name": "English",
+          "native_name": "English"
+        }
+      ],
+      "specializations": [
+        {
+          "id": 8,
+          "name": "Spirituality"
+        },
+        {
+          "id": 22,
+          "name": "Shamanic healing"
+        },
+        {
+          "id": 35,
+          "name": "Twine flame healer"
+        },
+        {
+          "id": 36,
+          "name": "Spiritual healing"
+        },
+        {
+          "id": 38,
+          "name": "Remedies"
+        },
+        {
+          "id": 41,
+          "name": "Affirmations"
+        }
+      ],
+      "certificates": [],
+      "offers": [],
+      "video": {
+        "src": null
+      },
+      "chat_offers": [
+        {
+          "type": "offline",
+          "price": 8,
+          "limit": 25,
+          "limit_is_exhausted": false,
+          "offer": null
+        },
+        {
+          "type": "online",
+          "price": 8,
+          "limit": 2,
+          "limit_is_exhausted": false,
+          "offer": null
+        }
+      ],
+      "subscription": {
+        "type": "never"
+      },
+      "is_personal": false,
+      "is_followed": false,
+      "status": "online"
+    },
+    {
+      "id": "d6821d1e-5ada-4b5e-a3a4-d6f1aebbd0ee",
+      "name": "Iris",
+      "astrology_type": "western",
+      "image": "https://astrocrmmedia.obrio.net/photos/production/image_d6821d1e-5ada-4b5e-a3a4-d6f1aebbd0ee.jpg",
+      "image_mini": "https://astrocrmmedia.obrio.net/photos/production/image_d6821d1e-5ada-4b5e-a3a4-d6f1aebbd0ee.jpg",
+      "slogan": "Sometimes the most important thing is right in front of our eyes, we just need to open them",
+      "description": "Are you facing any problem or need advice? Confused? Disappointed? Lost hope? All your feelings, experiences and emotions are important! Let me bring clarity to your life with the help of the stars. Feel free to ask any question. I am always ready to listen and support you at a difficult moment.",
+      "description_experience": "",
+      "rating": 4.8,
+      "experience": 10,
+      "feedback_count": 1115,
+      "total_orders": 7522,
+      "sort_order": 2117,
+      "joined_time": 1652444279,
+      "languages": [
+        {
+          "code": "en",
+          "name": "English",
+          "native_name": "English"
+        }
+      ],
+      "specializations": [
+        {
+          "id": 3,
+          "name": "Tarot reading"
+        },
+        {
+          "id": 4,
+          "name": "Psychic"
+        },
+        {
+          "id": 33,
+          "name": "Love back rituals"
+        },
+        {
+          "id": 41,
+          "name": "Affirmations"
+        },
+        {
+          "id": 44,
+          "name": "Relationship expert"
+        }
+      ],
+      "certificates": [],
+      "offers": [],
+      "video": {
+        "src": null
+      },
+      "chat_offers": [
+        {
+          "type": "offline",
+          "price": 3,
+          "limit": 25,
+          "limit_is_exhausted": false,
+          "offer": null
+        },
+        {
+          "type": "online",
+          "price": 3,
+          "limit": 2,
+          "limit_is_exhausted": false,
+          "offer": null
+        }
+      ],
+      "subscription": {
+        "type": "never"
+      },
+      "is_personal": false,
+      "is_followed": false,
+      "status": "online"
+    },
+    {
+      "id": "90fd0254-5e78-45dd-999b-df4168a6f08d",
+      "name": "Demarion",
+      "astrology_type": "western",
+      "image": "https://astrocrmmedia.obrio.net/photos/production/image_90fd0254-5e78-45dd-999b-df4168a6f08d.png",
+      "image_mini": "https://astrocrmmedia.obrio.net/photos/production/image_90fd0254-5e78-45dd-999b-df4168a6f08d.png",
+      "slogan": "Demarion can lead you to answers that have always been hidden from you and were very close.",
+      "description": "Demarion is a professional tarot reader who gained his knowledge with the help of generations who carried this knowledge into the future. He has a special deck that helps him give answers to the most deep and close to the heart questions. With the help of the details, as well as the emotions you will feel during his reading, you will find the answer to where you should go in life.",
+      "description_experience": "",
+      "rating": 5,
+      "experience": 25,
+      "feedback_count": 46,
+      "total_orders": 53,
+      "sort_order": 4017,
+      "joined_time": 1669202665,
+      "languages": [
+        {
+          "code": "en",
+          "name": "English",
+          "native_name": "English"
+        }
+      ],
+      "specializations": [
+        {
+          "id": 1,
+          "name": "Life"
+        },
+        {
+          "id": 33,
+          "name": "Love back rituals"
+        },
+        {
+          "id": 44,
+          "name": "Relationship expert"
+        }
+      ],
+      "certificates": [],
+      "offers": [],
+      "video": {
+        "src": null
+      },
+      "chat_offers": [
+        {
+          "type": "offline",
+          "price": 6,
+          "limit": 25,
+          "limit_is_exhausted": false,
+          "offer": null
+        },
+        {
+          "type": "online",
+          "price": 6,
+          "limit": 2,
+          "limit_is_exhausted": false,
+          "offer": null
+        }
+      ],
+      "subscription": {
+        "type": "never"
+      },
+      "is_personal": false,
+      "is_followed": false,
+      "status": "online"
+    },
+    {
+      "id": "a64ac214-5ec7-4c4e-8314-a1cbb1d3b884",
+      "name": "Carpathia",
+      "astrology_type": "western",
+      "image": "https://astrocrmmedia.obrio.net/photos/production/image_a64ac214-5ec7-4c4e-8314-a1cbb1d3b884.png",
+      "image_mini": "https://astrocrmmedia.obrio.net/photos/production/image_a64ac214-5ec7-4c4e-8314-a1cbb1d3b884.png",
+      "slogan": "If you seek - you will find.",
+      "description": "Have a journey with me, through the mysteries of stars, cards and runes. Let us reveal what is hidden.",
+      "description_experience": "",
+      "rating": 4.9,
+      "experience": 15,
+      "feedback_count": 78,
+      "total_orders": 644,
+      "sort_order": 2987,
+      "joined_time": 1663935817,
+      "languages": [
+        {
+          "code": "en",
+          "name": "English",
+          "native_name": "English"
+        }
+      ],
+      "specializations": [
+        {
+          "id": 3,
+          "name": "Tarot reading"
+        },
+        {
+          "id": 11,
+          "name": "Runes reading"
+        },
+        {
+          "id": 39,
+          "name": "Remove third-party ritual"
+        },
+        {
+          "id": 43,
+          "name": "Love spell"
+        },
+        {
+          "id": 44,
+          "name": "Relationship expert"
+        }
+      ],
+      "certificates": [],
+      "offers": [],
+      "video": {
+        "src": null
+      },
+      "chat_offers": [
+        {
+          "type": "offline",
+          "price": 4,
+          "limit": 100,
+          "limit_is_exhausted": false,
+          "offer": null
+        },
+        {
+          "type": "online",
+          "price": 4,
+          "limit": 2,
+          "limit_is_exhausted": false,
+          "offer": null
+        }
+      ],
+      "subscription": {
+        "type": "never"
+      },
+      "is_personal": false,
+      "is_followed": false,
+      "status": "online"
+    },
+    {
+      "id": "61c8a2d9-6376-4258-b62d-f3cabf03fd14",
+      "name": "Lewanna",
+      "astrology_type": "western",
+      "image": "https://astrocrmmedia.obrio.net/photos/production/image_61c8a2d9-6376-4258-b62d-f3cabf03fd14.png",
+      "image_mini": "https://astrocrmmedia.obrio.net/photos/production/image_61c8a2d9-6376-4258-b62d-f3cabf03fd14.png",
+      "slogan": "I will help you reconnect with your soul, find a true soulmate, and heal your relationship with your loved ones",
+      "description": "I've come a long way in helping couples heal their connection and build beautiful relationships. And I believe there is someone special for everyone. Reach out if you need help meeting your true love or want to heal from your previous experiences. I will help you open new doors for a happy relationship you are truly worth.",
+      "description_experience": "",
+      "rating": 4.9,
+      "experience": 15,
+      "feedback_count": 48,
+      "total_orders": 53,
+      "sort_order": 4067,
+      "joined_time": 1669900004,
+      "languages": [
+        {
+          "code": "en",
+          "name": "English",
+          "native_name": "English"
+        }
+      ],
+      "specializations": [
+        {
+          "id": 5,
+          "name": "Clairvoyance"
+        },
+        {
+          "id": 38,
+          "name": "Remedies"
+        },
+        {
+          "id": 44,
+          "name": "Relationship expert"
+        }
+      ],
+      "certificates": [],
+      "offers": [],
+      "video": {
+        "src": null
+      },
+      "chat_offers": [
+        {
+          "type": "offline",
+          "price": 3.5,
+          "limit": 25,
+          "limit_is_exhausted": false,
+          "offer": null
+        },
+        {
+          "type": "online",
+          "price": 3.5,
+          "limit": 1,
+          "limit_is_exhausted": false,
+          "offer": null
+        }
+      ],
+      "subscription": {
+        "type": "never"
+      },
+      "is_personal": false,
+      "is_followed": false,
+      "status": "online"
+    },
+    {
+      "id": "7fbff284-c1ef-44fd-a5f0-a9e3b5bf9e4c",
+      "name": "Danae",
+      "astrology_type": "western",
+      "image": "https://astrocrmmedia.obrio.net/photos/production/image_7fbff284-c1ef-44fd-a5f0-a9e3b5bf9e4c.jpg",
+      "image_mini": "https://astrocrmmedia.obrio.net/photos/production/image_7fbff284-c1ef-44fd-a5f0-a9e3b5bf9e4c.jpg",
+      "slogan": "What the future has in store for you? The stars will tell you, to trust and believe them",
+      "description": "Let troubles no longer scare you, because the Universe has answers to all questions, and together we can find them.",
+      "description_experience": "",
+      "rating": 5,
+      "experience": 16,
+      "feedback_count": 88,
+      "total_orders": 675,
+      "sort_order": 3267,
+      "joined_time": 1663941918,
+      "languages": [],
+      "specializations": [
+        {
+          "id": 3,
+          "name": "Tarot reading"
+        },
+        {
+          "id": 33,
+          "name": "Love back rituals"
+        },
+        {
+          "id": 38,
+          "name": "Remedies"
+        },
+        {
+          "id": 42,
+          "name": "Chakras healing"
+        },
+        {
+          "id": 43,
+          "name": "Love spell"
+        }
+      ],
+      "certificates": [],
+      "offers": [],
+      "video": {
+        "src": null
+      },
+      "chat_offers": [
+        {
+          "type": "offline",
+          "price": 6.5,
+          "limit": 10,
+          "limit_is_exhausted": false,
+          "offer": null
+        },
+        {
+          "type": "online",
+          "price": 6.5,
+          "limit": 2,
+          "limit_is_exhausted": false,
+          "offer": null
+        }
+      ],
+      "subscription": {
+        "type": "never"
+      },
+      "is_personal": false,
+      "is_followed": false,
+      "status": "online"
+    },
+    {
+      "id": "59d7f481-97e1-4ddc-978f-24ac57a0667d",
+      "name": "Ariana",
+      "astrology_type": "western",
+      "image": "https://astrocrmmedia.obrio.net/photos/production/image_59d7f481-97e1-4ddc-978f-24ac57a0667d.jpg",
+      "image_mini": "https://astrocrmmedia.obrio.net/photos/production/image_59d7f481-97e1-4ddc-978f-24ac57a0667d.jpg",
+      "slogan": "Step into the fire of self-discovery. This fire will not burn you, it will only burn what you are not",
+      "description": "Are you wondering if you will ever find true happiness? I am here to listen and to help you in every way I can. I will provide you with a piece of straightforward advice without sugar-coating to help you with your journey. If you got a relationship question or question about your career, I am here to help.\r\nI am an honest, caring, and open person, so let’s talk and get to the bottom of things. I have experience for almost seven years, and it is my DESIRE and PASSION to help people. If you want a reading that will astound you, bring peace to your spirit, and uplift you, I am available here for you.",
+      "description_experience": "",
+      "rating": 4.9,
+      "experience": 8,
+      "feedback_count": 1006,
+      "total_orders": 6859,
+      "sort_order": 1887,
+      "joined_time": 1645292242,
+      "languages": [
+        {
+          "code": "en",
+          "name": "English",
+          "native_name": "English"
+        }
+      ],
+      "specializations": [
+        {
+          "id": 1,
+          "name": "Life"
+        },
+        {
+          "id": 2,
+          "name": "Numerology"
+        },
+        {
+          "id": 3,
+          "name": "Tarot reading"
+        },
+        {
+          "id": 26,
+          "name": "Horary Astrology"
+        },
+        {
+          "id": 36,
+          "name": "Spiritual healing"
+        },
+        {
+          "id": 40,
+          "name": "Devine power activation"
+        }
+      ],
+      "certificates": [],
+      "offers": [],
+      "video": {
+        "src": null
+      },
+      "chat_offers": [
+        {
+          "type": "offline",
+          "price": 3,
+          "limit": 25,
+          "limit_is_exhausted": false,
+          "offer": null
+        },
+        {
+          "type": "online",
+          "price": 3,
+          "limit": 2,
+          "limit_is_exhausted": false,
+          "offer": null
+        }
+      ],
+      "subscription": {
+        "type": "never"
+      },
+      "is_personal": false,
+      "is_followed": false,
+      "status": "online"
+    },
+    {
+      "id": "4b25fd62-dc92-474a-8d83-42503f7afb38",
+      "name": "Risha",
+      "astrology_type": "vedic",
+      "image": "https://astrocrmmedia.obrio.net/photos/production/image_4b25fd62-dc92-474a-8d83-42503f7afb38.png",
+      "image_mini": "https://astrocrmmedia.obrio.net/photos/production/image_4b25fd62-dc92-474a-8d83-42503f7afb38.png",
+      "slogan": "It's easier to go through life knowing where to go! Ask, learn, be interested. I can help solve your problems!",
+      "description": "My name is Risha and for the past 23 years I have been skillfully and practically using the skills of astrology, tarot, numerology and rituals! I can help you get out of the most difficult situations of your life. With me, you will receive 100% help of any complexity, as I approach each case individually and scrupulously. \r\nDiagnosis is the first and obligatory stage of all my work. It is needed in order to find out all the hidden causes and features of the problem, your astral level, energy and, based on this, choose the right rituals if they are needed. It's like a visit to the doctor: in order to cure the disease, you need to correctly diagnose. In my experience, almost all problems are solved immediately after the diagnosis and my consultation. During the diagnostics, using all my tools, I do a full complex analysis of the situation. You will learn: about the hidden thoughts, desires, plans of your loved one, his/her real attitude towards you, towards an opponent or rival - the intervention of third parties, the presence of rivals and their influence on your life - the presence of negativity from the outside. And I will definitely help you correct the situation and become happy.",
+      "description_experience": "",
+      "rating": 5,
+      "experience": 23,
+      "feedback_count": 1,
+      "total_orders": 53,
+      "sort_order": 3527,
+      "joined_time": 1669119567,
+      "languages": [
+        {
+          "code": "en",
+          "name": "English",
+          "native_name": "English"
+        }
+      ],
+      "specializations": [
+        {
+          "id": 11,
+          "name": "Runes reading"
+        },
+        {
+          "id": 22,
+          "name": "Shamanic healing"
+        },
+        {
+          "id": 25,
+          "name": "General Astrology"
+        },
+        {
+          "id": 28,
+          "name": "Oracle card readings"
+        }
+      ],
+      "certificates": [],
+      "offers": [],
+      "video": {
+        "src": null
+      },
+      "chat_offers": [
+        {
+          "type": "offline",
+          "price": 10,
+          "limit": 25,
+          "limit_is_exhausted": false,
+          "offer": null
+        },
+        {
+          "type": "online",
+          "price": 10,
+          "limit": 2,
+          "limit_is_exhausted": false,
+          "offer": null
+        }
+      ],
+      "subscription": {
+        "type": "never"
+      },
+      "is_personal": false,
+      "is_followed": false,
+      "status": "online"
+    },
+    {
+      "id": "f7f0d9ea-bffd-4520-8a82-1acacb8fcf7f",
+      "name": "Lucca Third Eye",
+      "astrology_type": "western",
+      "image": "https://astrocrmmedia.obrio.net/photos/production/image_f7f0d9ea-bffd-4520-8a82-1acacb8fcf7f.jpg",
+      "image_mini": "https://astrocrmmedia.obrio.net/photos/production/image_f7f0d9ea-bffd-4520-8a82-1acacb8fcf7f.jpg",
+      "slogan": "Not only time could heal, begin the healing yourself",
+      "description": "Hello! I'm a born gifted astrologer who can provide you with detailed insight about your love life, help you to reconnect with your love, and answer all love and career questions. I'll give you information that will help you to understand the needs, emotions, intentions, and feelings of your current partner or the one you wish to be with. Want to know your true self? Allow me to guide you towards the path of abundance through astrology and positive thinking and bring you closer to happiness.",
+      "description_experience": "",
+      "rating": 4.9,
+      "experience": 19,
+      "feedback_count": 943,
+      "total_orders": 7571,
+      "sort_order": 1737,
+      "joined_time": 1643968711,
+      "languages": [
+        {
+          "code": "en",
+          "name": "English",
+          "native_name": "English"
+        }
+      ],
+      "specializations": [
+        {
+          "id": 1,
+          "name": "Life"
+        },
+        {
+          "id": 3,
+          "name": "Tarot reading"
+        },
+        {
+          "id": 20,
+          "name": "Naturopathy"
+        },
+        {
+          "id": 33,
+          "name": "Love back rituals"
+        }
+      ],
+      "certificates": [],
+      "offers": [],
+      "video": {
+        "src": null
+      },
+      "chat_offers": [
+        {
+          "type": "offline",
+          "price": 3,
+          "limit": 25,
+          "limit_is_exhausted": false,
+          "offer": null
+        },
+        {
+          "type": "online",
+          "price": 3,
+          "limit": 2,
+          "limit_is_exhausted": false,
+          "offer": null
+        }
+      ],
+      "subscription": {
+        "type": "never"
+      },
+      "is_personal": false,
+      "is_followed": false,
+      "status": "online"
+    },
+    {
+      "id": "72d94406-f430-43e5-8544-a91a1e7ea761",
+      "name": "Horace",
+      "astrology_type": "western",
+      "image": "https://astrocrmmedia.obrio.net/photos/production/image_72d94406-f430-43e5-8544-a91a1e7ea761.jpg",
+      "image_mini": "https://astrocrmmedia.obrio.net/photos/production/image_72d94406-f430-43e5-8544-a91a1e7ea761.jpg",
+      "slogan": "I could show you the endless possibilities of decisions",
+      "description": "I can look into your situation and provide deeper insight into how the other person is feeling. I can provide spiritual healing and see what your present and future can be. You should only come to me if you want to hear the truth. I love to help you out in the shortest time available to us or as long as you wish to stay connected with me.\r\nI can help you see the best path/direction in your life in achieving true happiness and success. I can help you overcome any obstacles by guiding you on how to have complete control of your life.",
+      "description_experience": "",
+      "rating": 4.8,
+      "experience": 33,
+      "feedback_count": 1176,
+      "total_orders": 5317,
+      "sort_order": 1817,
+      "joined_time": 1643970691,
+      "languages": [
+        {
+          "code": "en",
+          "name": "English",
+          "native_name": "English"
+        }
+      ],
+      "specializations": [
+        {
+          "id": 1,
+          "name": "Life"
+        },
+        {
+          "id": 2,
+          "name": "Numerology"
+        },
+        {
+          "id": 3,
+          "name": "Tarot reading"
+        },
+        {
+          "id": 11,
+          "name": "Runes reading"
+        },
+        {
+          "id": 36,
+          "name": "Spiritual healing"
+        }
+      ],
+      "certificates": [],
+      "offers": [],
+      "video": {
+        "src": null
+      },
+      "chat_offers": [
+        {
+          "type": "offline",
+          "price": 3,
+          "limit": 25,
+          "limit_is_exhausted": false,
+          "offer": null
+        },
+        {
+          "type": "online",
+          "price": 3,
+          "limit": 2,
+          "limit_is_exhausted": false,
+          "offer": null
+        }
+      ],
+      "subscription": {
+        "type": "never"
+      },
+      "is_personal": false,
+      "is_followed": false,
+      "status": "online"
+    },
+    {
+      "id": "da3ac1e4-6423-4d11-b860-0aa5054e3808",
+      "name": "Thalador",
+      "astrology_type": "western",
+      "image": "https://astrocrmmedia.obrio.net/photos/production/image_da3ac1e4-6423-4d11-b860-0aa5054e3808.png",
+      "image_mini": "https://astrocrmmedia.obrio.net/photos/production/image_da3ac1e4-6423-4d11-b860-0aa5054e3808.png",
+      "slogan": "I can see a future and I want to share it with you",
+      "description": "Our life is filled with mysticism. Allow me to help you to find the way and fulfill your life with my exceptional guidance.",
+      "description_experience": "",
+      "rating": 4.8,
+      "experience": 12,
+      "feedback_count": 40,
+      "total_orders": 462,
+      "sort_order": 2867,
+      "joined_time": 1663930957,
+      "languages": [
+        {
+          "code": "en",
+          "name": "English",
+          "native_name": "English"
+        }
+      ],
+      "specializations": [
+        {
+          "id": 38,
+          "name": "Remedies"
+        },
+        {
+          "id": 43,
+          "name": "Love spell"
+        },
+        {
+          "id": 44,
+          "name": "Relationship expert"
+        }
+      ],
+      "certificates": [],
+      "offers": [],
+      "video": {
+        "src": null
+      },
+      "chat_offers": [
+        {
+          "type": "offline",
+          "price": 4,
+          "limit": 100,
+          "limit_is_exhausted": false,
+          "offer": null
+        },
+        {
+          "type": "online",
+          "price": 4,
+          "limit": 2,
+          "limit_is_exhausted": false,
+          "offer": null
+        }
+      ],
+      "subscription": {
+        "type": "never"
+      },
+      "is_personal": false,
+      "is_followed": false,
+      "status": "online"
+    },
+    {
+      "id": "4100186f-ce9a-4eee-af11-f118bc8d02c6",
+      "name": "Ekaagar74",
+      "astrology_type": "western",
+      "image": "https://astrocrmmedia.obrio.net/photos/production/image_4100186f-ce9a-4eee-af11-f118bc8d02c6.png",
+      "image_mini": "https://astrocrmmedia.obrio.net/photos/production/image_4100186f-ce9a-4eee-af11-f118bc8d02c6.png",
+      "slogan": "I clearly know what my purpose in this world is to help people find the truth! My reading will help you find the answer to everything you've been looking for for so long, the true answer! Not always pleasant, but true!",
+      "description": "For more than 20 years of my second life, I have been helping people who have lost hope for the future and are looking for the meaning of their lives. You got it right, second life! On September 8, 1989, I was hit by a car, I was seriously injured and I was in a coma for 8 months, the doctors gave me no chance that I would wake up and recover, but the strong hope, love, and faith of my relatives pulled me out of that world. When I came out of the coma, I asked my sister a little later what week she was pregnant, I felt that another life was beating in her, the feeling was strange and disturbing, at that moment it turned out that she had no idea that she was pregnant, after taking a test it turned out to be true. Later, I began to understand that I hear the truth of other people's desires and their emotions more strongly than usual, during a conversation I always knew what a person would want to talk about. After I was discharged from the hospital, I felt that I needed to study esoteric in more detail, because I felt an extremely strong energy in myself that I could not explain, feelings, thoughts, desires, and the future of other people were mixed in my head. On the path of my knowledge, I found my mentor, thanks to whom I learned various practices of tarot reading, numerology, reading Oracles and Angel messages, as well as Astrology and runes. It was surprisingly easy, it seemed like I knew this information all my previous life. During this journey of knowledge, I practiced reading people and their problems with the help of various tools, and everyone was surprised by the most intuitive reading because as soon as a person came to me, I already knew what happened to them.\r\n\r\nI consider September 8, 1989, to be the beginning of my second life. A life where I finally understood my purpose, and this purpose is devotion to people and helping them! My reading of your life is very direct and accurate, I will not embellish everything and try to tell you only pleasant things, be ready for the truth in your session with me! After all, I believe that every person deserves and should know exactly the truth that belongs to him. My goal is to help you and if I have to stay up at night to solve your problem, I will!",
+      "description_experience": "",
+      "rating": 5,
+      "experience": 21,
+      "feedback_count": 49,
+      "total_orders": 53,
+      "sort_order": 3537,
+      "joined_time": 1669119873,
+      "languages": [
+        {
+          "code": "en",
+          "name": "English",
+          "native_name": "English"
+        }
+      ],
+      "specializations": [
+        {
+          "id": 2,
+          "name": "Numerology"
+        },
+        {
+          "id": 3,
+          "name": "Tarot reading"
+        },
+        {
+          "id": 7,
+          "name": "Angel readings"
+        },
+        {
+          "id": 44,
+          "name": "Relationship expert"
+        }
+      ],
+      "certificates": [],
+      "offers": [],
+      "video": {
+        "src": null
+      },
+      "chat_offers": [
+        {
+          "type": "offline",
+          "price": 15,
+          "limit": 10,
+          "limit_is_exhausted": false,
+          "offer": null
+        },
+        {
+          "type": "online",
+          "price": 15,
+          "limit": 2,
+          "limit_is_exhausted": false,
+          "offer": null
+        }
+      ],
+      "subscription": {
+        "type": "never"
+      },
+      "is_personal": false,
+      "is_followed": false,
+      "status": "online"
+    },
+    {
+      "id": "62443b80-ca8b-4829-b035-0ed1daa9597a",
+      "name": "Callisto",
+      "astrology_type": "western",
+      "image": "https://astrocrmmedia.obrio.net/photos/production/image_62443b80-ca8b-4829-b035-0ed1daa9597a.jpg",
+      "image_mini": "https://astrocrmmedia.obrio.net/photos/production/image_62443b80-ca8b-4829-b035-0ed1daa9597a.jpg",
+      "slogan": "The only journey is the one within. Let me be your guide during this adventure",
+      "description": "Love is divine! I'm a love & relationship specialist. I can help empower your spirit with a strength which can hold you firm to hold your soul mate. I have counseled clients on separations, break-ups, divorce, long-distance love, family problems, plus rivalries and conflicts in the workplace. ​Allow me to help guide you past the confusion and to a place where you can live in love, peace, and harmony. I am here to help by sharing only the truth with you. I do not give false hope. Your time and your money will not be wasted.",
+      "description_experience": "",
+      "rating": 4.9,
+      "experience": 20,
+      "feedback_count": 1248,
+      "total_orders": 6679,
+      "sort_order": 1827,
+      "joined_time": 1643970865,
+      "languages": [
+        {
+          "code": "en",
+          "name": "English",
+          "native_name": "English"
+        }
+      ],
+      "specializations": [
+        {
+          "id": 1,
+          "name": "Life"
+        },
+        {
+          "id": 2,
+          "name": "Numerology"
+        },
+        {
+          "id": 3,
+          "name": "Tarot reading"
+        },
+        {
+          "id": 11,
+          "name": "Runes reading"
+        }
+      ],
+      "certificates": [],
+      "offers": [],
+      "video": {
+        "src": null
+      },
+      "chat_offers": [
+        {
+          "type": "offline",
+          "price": 3,
+          "limit": 25,
+          "limit_is_exhausted": false,
+          "offer": null
+        },
+        {
+          "type": "online",
+          "price": 3,
+          "limit": 2,
+          "limit_is_exhausted": false,
+          "offer": null
+        }
+      ],
+      "subscription": {
+        "type": "never"
+      },
+      "is_personal": false,
+      "is_followed": false,
+      "status": "online"
+    },
+    {
+      "id": "34ad7e82-46a5-42c8-942d-a58e2d9b6452",
+      "name": "Elthia",
+      "astrology_type": "western",
+      "image": "https://astrocrmmedia.obrio.net/photos/production/image_34ad7e82-46a5-42c8-942d-a58e2d9b6452.jpg",
+      "image_mini": "https://astrocrmmedia.obrio.net/photos/production/image_34ad7e82-46a5-42c8-942d-a58e2d9b6452.jpg",
+      "slogan": "I am here to help you start your healing journey.",
+      "description": "As an energy healer, I will help you unleash the karmic situations in your life and heal them. I will also provide deep emotional healing to help you release the pain from your past so that you can move forward to the life your heart truly desires. If you're feeling stuck or unsure what to do next, write to me and I will help you bring peace and harmony into your life.",
+      "description_experience": "",
+      "rating": 5,
+      "experience": 25,
+      "feedback_count": 8,
+      "total_orders": 135,
+      "sort_order": 3337,
+      "joined_time": 1668686451,
+      "languages": [
+        {
+          "code": "en",
+          "name": "English",
+          "native_name": "English"
+        }
+      ],
+      "specializations": [
+        {
+          "id": 2,
+          "name": "Numerology"
+        },
+        {
+          "id": 41,
+          "name": "Affirmations"
+        },
+        {
+          "id": 42,
+          "name": "Chakras healing"
+        }
+      ],
+      "certificates": [],
+      "offers": [],
+      "video": {
+        "src": null
+      },
+      "chat_offers": [
+        {
+          "type": "offline",
+          "price": 2,
+          "limit": 25,
+          "limit_is_exhausted": false,
+          "offer": null
+        },
+        {
+          "type": "online",
+          "price": 2,
+          "limit": 1,
+          "limit_is_exhausted": false,
+          "offer": null
+        }
+      ],
+      "subscription": {
+        "type": "never"
+      },
+      "is_personal": false,
+      "is_followed": false,
+      "status": "online"
+    },
+    {
+      "id": "e573a80c-9cd1-4aeb-877e-bf2f17cf7401",
+      "name": "Mevellina",
+      "astrology_type": "western",
+      "image": "https://astrocrmmedia.obrio.net/photos/production/image_e573a80c-9cd1-4aeb-877e-bf2f17cf7401.jpg",
+      "image_mini": "https://astrocrmmedia.obrio.net/photos/production/image_e573a80c-9cd1-4aeb-877e-bf2f17cf7401.jpg",
+      "slogan": "Follow me to the bright future.",
+      "description": "You feel lost, alone or just want to speak with someone, who understands?! Don't hesitate and join me in conversation where I will try to soothe your pain.",
+      "description_experience": "",
+      "rating": 4.9,
+      "experience": 10,
+      "feedback_count": 46,
+      "total_orders": 501,
+      "sort_order": 2877,
+      "joined_time": 1663931981,
+      "languages": [
+        {
+          "code": "en",
+          "name": "English",
+          "native_name": "English"
+        }
+      ],
+      "specializations": [
+        {
+          "id": 3,
+          "name": "Tarot reading"
+        },
+        {
+          "id": 11,
+          "name": "Runes reading"
+        },
+        {
+          "id": 36,
+          "name": "Spiritual healing"
+        },
+        {
+          "id": 43,
+          "name": "Love spell"
+        },
+        {
+          "id": 44,
+          "name": "Relationship expert"
+        }
+      ],
+      "certificates": [],
+      "offers": [],
+      "video": {
+        "src": null
+      },
+      "chat_offers": [
+        {
+          "type": "offline",
+          "price": 4,
+          "limit": 10,
+          "limit_is_exhausted": false,
+          "offer": null
+        },
+        {
+          "type": "online",
+          "price": 4,
+          "limit": 2,
+          "limit_is_exhausted": false,
+          "offer": null
+        }
+      ],
+      "subscription": {
+        "type": "never"
+      },
+      "is_personal": false,
+      "is_followed": false,
+      "status": "online"
+    },
+    {
+      "id": "77f11638-fb10-4d54-9f2f-a26d692d28a0",
+      "name": "Bagheera",
+      "astrology_type": "western",
+      "image": "https://astrocrmmedia.obrio.net/photos/production/image_77f11638-fb10-4d54-9f2f-a26d692d28a0.jpg",
+      "image_mini": "https://astrocrmmedia.obrio.net/photos/production/image_77f11638-fb10-4d54-9f2f-a26d692d28a0.jpg",
+      "slogan": "I believe that each of us is a unique treasure of talents, creativity, happiness and love, the main thing is to find them inside ourselves - that's why I'm here to help you with this!",
+      "description": "My name is Bagheera and for 15 years now I have been helping people find their true love, gain financial success, find their divine destiny, find harmony with themselves and the world! I find the hidden truth, mysteries of the kind.\r\nI’m a hereditary fortune-teller in the 3rd generation and the Akashic Records are open to me, so I can direct people to their true path!\r\nSince childhood, mystical things have happened to me, I was interested in spirits, planets, energies, how they affect us.\r\nWhen I was a teenager, I began to study astrology, then, using the example of my own natal card, I saw how much everything was hidden in me and began to study tarot, healing practices, developed my extrasensory abilities and for 15 years now I have been a practicing psychic, astrologer and tarologist.\r\n\r\nI’m  here because the Universe gave me powerful intuition, access to the Highest and Secret knowledge, high sensitivity and empathy, the ability to heal people, so my mission is to help people find their divine purpose give them light and faith in themselves and their abilities because each of us is unique and unrepeatable!\r\nI love people and I know  that we are all created for love, so I help people find happiness.\r\n\r\nBefore you write to me, please take a break, close your eyes, feel your body and spirit, take a deep breath, slowly exhale, watch your breath, tune in with yourself and the Universe,  hear yourself, ask your subconscious what is bothering you what you really want to know - as soon as you write to me - I will feel your energy and I will help you find the right answer or the right solution for you! I will see why you were created by the Higher Powers\r\nRelax and trust the flow! \r\nI’m your personal guide to your own Universe.",
+      "description_experience": "",
+      "rating": 5,
+      "experience": 15,
+      "feedback_count": 50,
+      "total_orders": 53,
+      "sort_order": 3717,
+      "joined_time": 1669192506,
+      "languages": [
+        {
+          "code": "en",
+          "name": "English",
+          "native_name": "English"
+        }
+      ],
+      "specializations": [
+        {
+          "id": 3,
+          "name": "Tarot reading"
+        },
+        {
+          "id": 4,
+          "name": "Psychic"
+        },
+        {
+          "id": 33,
+          "name": "Love back rituals"
+        },
+        {
+          "id": 44,
+          "name": "Relationship expert"
+        }
+      ],
+      "certificates": [],
+      "offers": [],
+      "video": {
+        "src": null
+      },
+      "chat_offers": [
+        {
+          "type": "offline",
+          "price": 11,
+          "limit": 10,
+          "limit_is_exhausted": false,
+          "offer": null
+        },
+        {
+          "type": "online",
+          "price": 11,
+          "limit": 2,
+          "limit_is_exhausted": false,
+          "offer": null
+        }
+      ],
+      "subscription": {
+        "type": "never"
+      },
+      "is_personal": false,
+      "is_followed": false,
+      "status": "offline"
+    }
+  ]
+}
