@@ -41,10 +41,12 @@
 
           .specializationsList {
             display: flex;
+            flex-wrap: wrap;
 
             .specializationsItem {
                 width: fit-content;
                 margin-right: 6px;
+                margin-bottom: 6px;
                 padding: 4px 10px;
                 background-color: $tagLight;
                 border-radius: 20px;
