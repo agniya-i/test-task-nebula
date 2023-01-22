@@ -1,7 +1,8 @@
-import { FC, useEffect } from 'react'
+import { FC } from 'react'
 import Image from 'next/image'
 import styles from './Pagination.module.scss'
 import classNames from 'classnames'
+import PaginateArror from '../../../public/icons/Arrow.svg'
 
 type Props = {
   perPage?: number
@@ -81,7 +82,7 @@ const Pagination: FC<Props> = ({
               onChangePage(currentPage - 1)
             }}
           >
-            <Image src="./Arrow.svg" alt="arrow" width={15} height={15} />
+            <Image src={PaginateArror} alt="arrow" width={15} height={15} />
           </button>
         </li>
       )}
@@ -117,7 +118,7 @@ const Pagination: FC<Props> = ({
           </li>
         )
       })}
-      {currentPage !== total && (
+      {currentPage !== totalPages && (
         <li className={styles.paginationItem}>
           <button
             className={styles.paginationItemButton}
@@ -125,7 +126,7 @@ const Pagination: FC<Props> = ({
               onChangePage(currentPage + 1)
             }}
           >
-            <Image src="./Arrow.svg" alt="arrow" width={15} height={15} />
+            <Image src={PaginateArror} alt="arrow" width={15} height={15} />
           </button>
         </li>
       )}

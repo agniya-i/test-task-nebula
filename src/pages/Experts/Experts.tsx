@@ -54,7 +54,7 @@ export const getServerSideProps: GetServerSideProps = async ({ query }) => {
   const currentPage = Number(query.page) || 1
 
   const limit = 4
-  const offset = (currentPage - 1) * (limit + 1)
+  const offset = (currentPage - 1) * limit
 
   const { data, total } = await getExperts(limit, offset)
 

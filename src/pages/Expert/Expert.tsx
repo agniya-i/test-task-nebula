@@ -4,8 +4,7 @@ import Image from 'next/image'
 import { User } from '@/src/types/User'
 import ExpertCard from '@/src/components/ExpertCard'
 import styles from './Expert.module.scss'
-import ExpertIcon from '../../../public/ExpertIcon.png'
-import classNames from 'classnames'
+import ExpertIllustration from '../../../public/ExpertIllustration.png'
 import { getExpertById } from '@/src/api/experts'
 
 type Props = {
@@ -28,7 +27,7 @@ const Expert: FC<Props> = ({ expert }) => {
               <p className={styles.bioText}>{expert.description}</p>
             </div>
             <div className={styles.imageWrapper}>
-              <Image src={ExpertIcon} />
+              <Image src={ExpertIllustration} />
             </div>
           </div>
         </div>

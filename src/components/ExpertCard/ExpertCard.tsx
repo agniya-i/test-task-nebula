@@ -5,7 +5,10 @@ import classNames from 'classnames'
 import { User } from '@/src/types/User'
 import Button from '../UI/Button'
 import styles from './ExpertCard.module.scss'
+import ExperienceIcon from '../../../public/icons/Experience.svg'
+import ConsultsIcon from '../../../public/icons/Consults.svg'
 
+import UserImage from '../UI/UserImage'
 type Props = {
   expert: User
   pageType?: 'default' | 'user'
@@ -20,13 +23,15 @@ const ExpertCard: FC<Props> = ({ expert, pageType = 'default' }) => {
         <div className={styles.header}>
           <div className={styles.image}>
             <div className={styles.imageWrapper}>
-              <Image
-                alt="user image"
+              <UserImage
+                alt={`user ${expert.name}`}
                 src={expert.image}
                 width={100}
                 height={100}
               />
-              <div className={styles.status}>{expert.status}</div>
+              <div className={classNames(styles.status, styles[expert.status])}>
+                {expert.status}
+              </div>
             </div>
           </div>
           <div className={styles.data}>
@@ -53,12 +58,30 @@ const ExpertCard: FC<Props> = ({ expert, pageType = 'default' }) => {
         </div>
       </div>
       <div className={styles.userAdditionalInfo}>
-        <div className={styles.expirience}>
-          <div className={styles.years}>
-            <span>{expert.experience} years </span>of experience{' '}
+        <div className={styles.expirienceWrapper}>
+          <div className={styles.expirience}>
+            <Image
+              className={styles.expirienceIcon}
+              src={ExperienceIcon}
+              alt={'icon'}
+              width={32}
+              height={32}
+            />
+            <p className={styles.expirienceText}>
+              <span>{expert.experience} years </span>of experience
+            </p>
           </div>
-          <div className={styles.consultation}>
-            <span>{expert.total_orders} </span>consultations done
+          <div className={styles.expirience}>
+            <Image
+              className={styles.expirienceIcon}
+              src={ConsultsIcon}
+              alt={'icon'}
+              width={32}
+              height={32}
+            />
+            <p className={styles.expirienceText}>
+              <span>{expert.total_orders} </span>consultations done
+            </p>
           </div>
         </div>
         {pageType !== 'user' && (

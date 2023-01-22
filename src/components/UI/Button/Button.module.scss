@@ -8,4 +8,22 @@
     font-size: 15px;
     width: fit-content;
     cursor: pointer;
+  
+
+
+    .buttonLabel {
+        display: flex;
+        align-items: center;
+
+        &::after {
+          content: "";
+          display: block;
+          width: 12px;
+          height: 12px;
+          background: url('../../../../public/icons/ArrowButton.svg');
+          background-size: cover;
+          background-position: center;
+          margin-left: 5px;
+        }
+    }
 }

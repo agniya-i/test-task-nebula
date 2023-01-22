@@ -1,5 +1,4 @@
 import { FC } from 'react'
-import classNames from 'classnames'
 import styles from './Button.module.scss'
 
 type Props = {
@@ -7,15 +6,10 @@ type Props = {
   style: 'link' | 'button'
   onClick: () => void
 }
-const Button: FC<Props> = ({ label, style = 'button', onClick }) => {
-  const buttonStyles = classNames(styles.button, {
-    [styles.buttonLink]: style === 'link',
-    [styles.buttonDefault]: style === 'button',
-  })
-
+const Button: FC<Props> = ({ label, onClick }) => {
   return (
-    <button className={buttonStyles} onClick={onClick}>
-      {label}
+    <button className={styles.button} onClick={onClick}>
+      <span className={styles.buttonLabel}>{label}</span>
     </button>
   )
 }
