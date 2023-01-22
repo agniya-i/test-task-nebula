@@ -6,11 +6,14 @@ import ExpertCard from '@/src/components/ExpertCard'
 import styles from './Expert.module.scss'
 import ExpertIcon from '../../../public/ExpertIcon.png'
 import classNames from 'classnames'
+import { getExpertById } from '@/src/api/experts'
 
 type Props = {
   expert: User
 }
 const Expert: FC<Props> = ({ expert }) => {
+  console.log(expert)
+
   return (
     <div className={styles.wrapper}>
       <div className="content-container">
@@ -34,16 +37,15 @@ const Expert: FC<Props> = ({ expert }) => {
   )
 }
 
-export default Expert
-
 export const getServerSideProps: GetServerSideProps = async ({ query }) => {
-  const { data } = await import('../../../experts.json')
-
-  const currentUser = data.find((user) => user.id === query.id)
+  const userId = query.id ?? ''
+  const expert = await getExpertById(userId)
 
   return {
     props: {
-      expert: currentUser,
+      expert: expert.data,
     },
   }
 }
+
+export default Expert

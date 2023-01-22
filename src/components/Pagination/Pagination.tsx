@@ -1,10 +1,10 @@
-import { FC } from 'react'
+import { FC, useEffect } from 'react'
 import Image from 'next/image'
 import styles from './Pagination.module.scss'
 import classNames from 'classnames'
 
 type Props = {
-  perPage: number
+  perPage?: number
   currentPage: number
   total: number
   onChangePage: (pageToNavigate: number) => void
@@ -22,7 +22,6 @@ const Pagination: FC<Props> = ({
   const startPage = 1
   const left = 'left'
   const right = 'right'
-
   const hasLeftHidden = currentPage > DOTS_MIN_LIMIT
   const hasRightHidden = totalPages - currentPage > DOTS_MIN_LIMIT
 
@@ -111,6 +110,7 @@ const Pagination: FC<Props> = ({
               }}
               className={styles.paginationItemButton}
               disabled={currentPage === item}
+              data-qa={pageToNavigate}
             >
               {!isNaN(element) ? parseInt(element) : element}
             </button>

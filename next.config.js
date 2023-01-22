@@ -4,6 +4,15 @@ const nextConfig = {
   images: {
     domains: ['astrocrmmedia.obrio.net'],
   },
+  async redirects() {
+    return [
+      {
+        source: '/',
+        destination: '/experts',
+        permanent: true,
+      },
+    ]
+  },
 }
 
 module.exports = nextConfig
