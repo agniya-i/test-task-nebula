@@ -2,13 +2,13 @@ import { FC } from 'react'
 import { useRouter } from 'next/router'
 import Image from 'next/image'
 import classNames from 'classnames'
-import { User } from '@/src/types/User'
+import { User } from '../../types/User'
 import Button from '../UI/Button'
-import styles from './ExpertCard.module.scss'
+import UserImage from '../UI/UserImage'
 import ExperienceIcon from '../../../public/icons/Experience.svg'
 import ConsultsIcon from '../../../public/icons/Consults.svg'
+import styles from './ExpertCard.module.scss'
 
-import UserImage from '../UI/UserImage'
 type Props = {
   expert: User
   pageType?: 'default' | 'user'
@@ -18,13 +18,20 @@ const ExpertCard: FC<Props> = ({ expert, pageType = 'default' }) => {
   const { push } = useRouter()
 
   return (
-    <div className={styles.wrapper}>
+    <div
+      className={classNames(styles.wrapper, styles[`${pageType}PageCard`])}
+      onClick={
+        pageType === 'default'
+          ? async () => await push(`expert/${expert.id}`)
+          : () => {}
+      }
+    >
       <div className={styles.userMainInfo}>
         <div className={styles.header}>
           <div className={styles.image}>
             <div className={styles.imageWrapper}>
               <UserImage
-                alt={`user ${expert.name}`}
+                alt={`User ${expert.name}`}
                 src={expert.image}
                 width={100}
                 height={100}
@@ -60,25 +67,17 @@ const ExpertCard: FC<Props> = ({ expert, pageType = 'default' }) => {
       <div className={styles.userAdditionalInfo}>
         <div className={styles.expirienceWrapper}>
           <div className={styles.expirience}>
-            <Image
-              className={styles.expirienceIcon}
-              src={ExperienceIcon}
-              alt={'icon'}
-              width={32}
-              height={32}
-            />
+            <div className={styles.expirienceIcon}>
+              <Image src={ExperienceIcon} alt={'expirience icon'} fill />
+            </div>
             <p className={styles.expirienceText}>
               <span>{expert.experience} years </span>of experience
             </p>
           </div>
           <div className={styles.expirience}>
-            <Image
-              className={styles.expirienceIcon}
-              src={ConsultsIcon}
-              alt={'icon'}
-              width={32}
-              height={32}
-            />
+            <div className={styles.expirienceIcon}>
+              <Image src={ConsultsIcon} alt={'consultations icon'} fill />
+            </div>
             <p className={styles.expirienceText}>
               <span>{expert.total_orders} </span>consultations done
             </p>

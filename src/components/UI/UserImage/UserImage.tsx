@@ -12,13 +12,7 @@ type Props = {
 const UserImage: FC<Props> = ({ src, alt, width, height }) => {
   return (
     <div className={styles.imageWrapper}>
-      <Image
-        className={styles.image}
-        src={src}
-        alt={alt}
-        width={100}
-        height={100}
-      />
+      <Image className={styles.image} src={src} alt={alt} fill />
     </div>
   )
 }

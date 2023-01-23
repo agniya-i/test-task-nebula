@@ -19,15 +19,15 @@ const Pagination: FC<Props> = ({
 }) => {
   const DOTS_MIN_LIMIT = 2
   const MIN_PAGES_FOR_PAGINATION = 1
+  const DOTS_PAGE_OFFSET = 2
   const totalPages = Math.ceil(total / perPage)
   const startPage = 1
   const left = 'left'
   const right = 'right'
   const hasLeftHidden = currentPage > DOTS_MIN_LIMIT
-  const hasRightHidden = totalPages - currentPage > DOTS_MIN_LIMIT
+  const hasRightHidden = totalPages - currentPage >= DOTS_MIN_LIMIT
 
-  const DOTS_PAGE_OFFSET = 2
-
+  // let pages: Array<string|number> =[]
   let pages: any[] = []
 
   const generateRange = (from: number, to: number): number[] => {
@@ -62,7 +62,11 @@ const Pagination: FC<Props> = ({
   }
 
   if (!hasRightHidden && hasLeftHidden && pages.length === 0) {
-    pages = [startPage, left, ...generateRange(currentPage - 1, totalPages)]
+    pages = [
+      startPage,
+      left,
+      ...generateRange(totalPages - DOTS_MIN_LIMIT, totalPages),
+    ]
   }
 
   if (pages.length === 0) {

@@ -26,6 +26,8 @@
         ],
         "react/react-in-jsx-scope": "off",
         "@typescript-eslint/consistent-type-definitions": "off",
-        "@typescript-eslint/strict-boolean-expressions": "warn"
+        "@typescript-eslint/strict-boolean-expressions": "warn",
+        "@typescript-eslint/no-floating-promises": "warn",
+        "@typescript-eslint/no-misused-promises": "warn"
     }
 }

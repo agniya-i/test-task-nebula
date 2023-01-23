@@ -9,7 +9,10 @@ const Header: FC = () => {
 
   return (
     <header className={styles.header}>
-      <a className={styles.logoWrapper} onClick={() => push('/experts')}>
+      <a
+        className={styles.logoWrapper}
+        onClick={async () => await push('/experts')}
+      >
         <Image className={styles.logo} src={logo} alt="logo" />
       </a>
     </header>

@@ -2,51 +2,43 @@
 @import './../../../../styles/mixins.scss';
 
 .button {
-    background: none;
-    border: 0;
-    color: $buttonPrimary;
-    font-size: 15px;
-    // width: fit-content;
-    cursor: pointer;
-    display: flex;
-    justify-content: flex-end;
-    width: 100%;
-    padding: 23px 23px 0 0;
+  display: flex;
+  justify-content: flex-end;
+  width: 100%;
+  background: none;
+  border: 0;
+  color: $buttonPrimary;
+  font-size: 16px;
+  cursor: pointer;
 
-    @include onDesktop{
-      padding: 0;
+  @include onDesktop {
+    padding: 0;
+    justify-content: flex-start;
+    align-items: center;
+  }
+
+  .buttonIcon {
+    display: block;
+    width: 15px;
+    height: 15px;
+    background: url('../../../../public/icons/ArrowButtonWhite.svg');
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+
+    @include onDesktop {
+      width: 12px;
+      height: 12px;
+      margin-left: 5px;
+      background: url('../../../../public/icons/ArrowButton.svg');
     }
+  }
 
-    .buttonIcon{
-        display: block;
-        width: 15px;
-        height: 15px;
-        background: url('../../../../public/icons/ArrowButtonWhite.svg');
-        background-size: contain;
-        background-position: center;
-        background-repeat: no-repeat;
-        margin-left: 5px;
-        // padding: 23px 28px;
+  .buttonLabel {
+    display: none;
+    
+    @include onDesktop {
+      display: block;
     }
-
-    .buttonLabel {
-        display: none;
-
-        @include onDesktop {
-          display: flex;
-          align-items: center;
-        }
-      
-
-        &::after {
-          content: "";
-          display: block;
-          width: 12px;
-          height: 12px;
-          background: url('../../../../public/icons/ArrowButton.svg');
-          background-size: cover;
-          background-position: center;
-          margin-left: 5px;
-        }
-    }
+  }
 }

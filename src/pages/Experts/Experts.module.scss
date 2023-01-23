@@ -1,12 +1,39 @@
 @import '../../../styles/variables.scss';
+@import '../../../styles/mixins.scss';
 
-.subtitle {
+.expertPage {
+  .title{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 22px;
+    font-weight: 600;
+    color:$textPrimary;
+    margin-bottom: 20px;
+      
+    @include onDesktop {
+      font-family: 'Montserrat', sans-serif;
+      font-size: 40px;
+      font-weight: 500;
+    }
+  }
+      
+  .subtitle {
     font-size: 16px;
     color: $textPrimary;
-    margin-bottom: 80px;
-}
+    margin-bottom: 32px;
+  
+    @include onDesktop {
+      margin-bottom: 80px;
+    }
+  }
+  
+  .expertsList{
+    .expertsListItem{
+        margin-bottom: 20px;
+    }
+  }
 
-.pagination {
-    margin: 60px 0 50px;
-    display: flex;
+  .pagination {
+      margin: 60px 0 50px;
+      display: flex;
+  }
 }

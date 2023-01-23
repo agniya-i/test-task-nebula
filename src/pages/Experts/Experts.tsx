@@ -1,12 +1,13 @@
 import { FC } from 'react'
 import { GetServerSideProps } from 'next'
-import classNames from 'classnames'
-import { User } from '@/src/types/User'
-import ExpertCard from '@/src/components/ExpertCard'
-import styles from './Experts.module.scss'
-import Pagination from '@/src/components/Pagination'
 import { useRouter } from 'next/router'
-import { getExperts } from '@/src/api/experts'
+import classNames from 'classnames'
+import { User } from '../../types/User'
+import ExpertCard from '../../components/ExpertCard'
+import Pagination from '../../components/Pagination'
+import { getExperts } from '../../api/experts'
+import styles from './Experts.module.scss'
+
 interface Props {
   experts: User[]
   total: number
@@ -18,30 +19,26 @@ const Experts: FC<Props> = ({ total, experts, currentPage }) => {
 
   const handlePagination = (page: number): void => {
     const path = router.pathname
-    const query = router.query
-    query.page = `${page}`
     router.push({
       pathname: path,
-      query,
+      query: { page: String(page) },
     })
   }
 
   return (
-    <div className={classNames('content-container', styles.main)}>
-      <h1 className="h1">Find your Experts</h1>
+    <div className={classNames('content-container', styles.expertPage)}>
+      <h1 className={classNames(styles.title)}>Find your advisor</h1>
       <div className={styles.subtitle}>{total} advisors available</div>
-      <div>
-        <ul>
-          {experts.map((expert) => (
-            <li key={expert.id}>
-              <ExpertCard expert={expert} />
-            </li>
-          ))}
-        </ul>
-      </div>
+      <ul className={styles.expertsList}>
+        {experts.map((expert) => (
+          <li key={expert.id} className={styles.expertsListItem}>
+            <ExpertCard expert={expert} />
+          </li>
+        ))}
+      </ul>
       <div className={styles.pagination}>
         <Pagination
-          currentPage={+currentPage}
+          currentPage={currentPage}
           total={total}
           onChangePage={handlePagination}
         />
