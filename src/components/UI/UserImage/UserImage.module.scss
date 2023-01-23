@@ -1,7 +1,15 @@
+@import '../../../../styles/mixins.scss';
+
 .imageWrapper {
     position: relative; 
 
     .image {
-        border-radius: 50%;
+        border-radius: 12px;
+        
+        @include onDesktop{
+            border-radius: 50%;
+        }
+        //--- Desktop ---
+        
     }
 }

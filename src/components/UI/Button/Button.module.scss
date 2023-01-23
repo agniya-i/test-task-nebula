@@ -1,19 +1,42 @@
 @import './../../../../styles/variables.scss';
+@import './../../../../styles/mixins.scss';
 
 .button {
-    display: inline-block;
     background: none;
     border: 0;
     color: $buttonPrimary;
     font-size: 15px;
-    width: fit-content;
+    // width: fit-content;
     cursor: pointer;
-  
+    display: flex;
+    justify-content: flex-end;
+    width: 100%;
+    padding: 23px 23px 0 0;
 
+    @include onDesktop{
+      padding: 0;
+    }
+
+    .buttonIcon{
+        display: block;
+        width: 15px;
+        height: 15px;
+        background: url('../../../../public/icons/ArrowButtonWhite.svg');
+        background-size: contain;
+        background-position: center;
+        background-repeat: no-repeat;
+        margin-left: 5px;
+        // padding: 23px 28px;
+    }
 
     .buttonLabel {
-        display: flex;
-        align-items: center;
+        display: none;
+
+        @include onDesktop {
+          display: flex;
+          align-items: center;
+        }
+      
 
         &::after {
           content: "";

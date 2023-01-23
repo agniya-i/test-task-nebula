@@ -10,6 +10,7 @@ const Button: FC<Props> = ({ label, onClick }) => {
   return (
     <button className={styles.button} onClick={onClick}>
       <span className={styles.buttonLabel}>{label}</span>
+      <span className={styles.buttonIcon}></span>
     </button>
   )
 }
